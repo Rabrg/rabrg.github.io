@@ -1,11 +1,11 @@
 ---
 layout: default
-title: hi
+title: home
 ---
 
 ### Me
 
-👋, i'm Ryan. i spend most of my time doing research at OpenAI and drawing inspiration from eclectic [art](/muses), travel, and nature. DMs are open
+👋, i'm Ryan. i spend most of my time doing research at OpenAI and drawing inspiration from eclectic [art](/muses), travel, and nature. DMs open
 
 ### Work
 

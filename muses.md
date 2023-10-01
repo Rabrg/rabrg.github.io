@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Muses
+title: muses
 ---
 
 below are the works that have recently been most on my mind
