@@ -5,7 +5,7 @@ title: hi
 
 ### Me
 
-👋, I'm Ryan. I spend most of my time doing research at OpenAI and drawing inspiration from eclectic art, travel, and nature. DMs are open
+👋, i'm Ryan. i spend most of my time doing research at OpenAI and drawing inspiration from eclectic [art](/muses), travel, and nature. DMs are open
 
 ### Work
 
