@@ -13,6 +13,7 @@ below are the works that have recently been most on my mind
 
 ### Books
 
+- Nature - Ralph Waldo Emerson
 - The Beginning of Infinity - David Deutsch
 - Letters to a Young Poet - Rainer Maria Rilke
 - Walden - Henry David Thoreau
