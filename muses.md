@@ -3,7 +3,7 @@ layout: default
 title: muses
 ---
 
-below are the works that have recently been most on my mind
+below are the works that have most recently been on my mind
 
 ### Albums
 
@@ -17,3 +17,7 @@ below are the works that have recently been most on my mind
 - The Beginning of Infinity - David Deutsch
 - Letters to a Young Poet - Rainer Maria Rilke
 - Walden - Henry David Thoreau
+
+### Visual
+
+{% include image-gallery.html folder="/the_story_of_art" %}
