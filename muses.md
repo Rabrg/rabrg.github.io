@@ -20,8 +20,9 @@ below are the works that have most recently been on my mind
 
 ### Quotes
 
-- "'Beauty is Truth, Truth Beauty.' – that is all / Ye know on earth, and all ye need to know" - John Keats
-- "The things that we love tell us what we are" - Thomas Aquinas
+> 'Beauty is Truth, Truth Beauty.' – that is all / Ye know on earth, and all ye need to know" - John Keats
+
+> "The things that we love tell us what we are" - Thomas Aquinas
 
 ### Visual
 
