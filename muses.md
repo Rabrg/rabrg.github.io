@@ -5,9 +5,9 @@ title: muses
 
 below are the works that have most recently been on my mind
 
-### Albums
+### Records
 
-- The Lemon of Pink - The Books
+- Maggot Brain - Funkadelic
 - Sons - Sons of an Illustrious Father
 - Orange Rhyming Dictionary - Jets to Brazil
 
