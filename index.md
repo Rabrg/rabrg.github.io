@@ -9,5 +9,5 @@ title: home
 
 ### Work
 
-- **2022 - now:** researching knowledge acquisition at OpenAI
+- **2022 - now:** increasing learning rates at OpenAI
 - **2020 - 2022:** election integrity and News Feed ranking at Meta
