@@ -21,7 +21,3 @@ below are the works that have most recently been on my mind
 ### Quotes
 
 > 'Beauty is Truth, Truth Beauty.' – that is all / Ye know on earth, and all ye need to know" - John Keats
-
-### Visual
-
-{% include image-gallery.html folder="/the_story_of_art" %}
