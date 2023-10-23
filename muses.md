@@ -3,7 +3,7 @@ layout: default
 title: muses
 ---
 
-below are the works that have most recently been on my mind
+the works that have been most on my mind
 
 ### Records
 
