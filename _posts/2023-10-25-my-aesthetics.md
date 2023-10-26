@@ -15,7 +15,7 @@ Nature is the universe; reality. It is everything that ever has and ever will ex
 
 #### Truth
 
-> Truth shall spring out of the earth... - **Psalm 85:11**
+> "Truth shall spring out of the earth..." - **Psalm 85:11**
 
 Truth is a faithfulness to nature; it’s a representation of reality.
 
@@ -33,6 +33,6 @@ Beauty is a synonym of meaning; the product of understanding. The deeper the und
 
 #### Art and Science
 
-> The true philosopher and the true poet are one, and a beauty, which is truth, and a truth, which is beauty, is the aim of both. - **Nature, Ralph Waldo Emerson**
+> "The true philosopher and the true poet are one, and a beauty, which is truth, and a truth, which is beauty, is the aim of both." - **Nature, Ralph Waldo Emerson**
 
 Art and science are means of using understanding to discover and express the truths of nature; of creating beauty.
