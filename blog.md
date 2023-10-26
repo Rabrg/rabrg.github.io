@@ -1,8 +1,6 @@
 ---
 layout: blog
-title: Blog
-description: Here be writings
+title: musings
+description: my musings
 permalink: /blog
 ---
-
-Here be writings. Mostly mundane, sometimes fanciful.
