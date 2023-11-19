@@ -10,7 +10,6 @@ the works that have been most on my mind
 - Promises - Floating Points
 - Maggot Brain - Funkadelic
 - Sons - Sons of an Illustrious Father
-- Orange Rhyming Dictionary - Jets to Brazil
 
 ### Books
 
