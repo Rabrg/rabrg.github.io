@@ -9,13 +9,11 @@ the works that have been most on my mind
 
 - Promises - Floating Points
 - Maggot Brain - Funkadelic
-- Sons - Sons of an Illustrious Father
 
 ### Books
 
 - The Passion According to G.H. - Clarice Lispector
 - Nature - Ralph Waldo Emerson
-- The Beginning of Infinity - David Deutsch
 - Letters to a Young Poet - Rainer Maria Rilke
 - Walden - Henry David Thoreau
 
