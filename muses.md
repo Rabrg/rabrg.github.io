@@ -12,10 +12,10 @@ the works that have been most on my mind
 
 ### Books
 
-- The Passion According to G.H. - Clarice Lispector
 - Nature - Ralph Waldo Emerson
-- Letters to a Young Poet - Rainer Maria Rilke
 - Walden - Henry David Thoreau
+- Letters to a Young Poet - Rainer Maria Rilke
+- The Passion According to G.H. - Clarice Lispector
 
 ### Quotes
 
