@@ -20,6 +20,7 @@ title: muses
 - [Kind of Blue](https://open.spotify.com/album/1weenld61qoidwYuZ1GESA?autoplay=true) - Miles Davis
 - [Orange Rhyming Dictionary](https://open.spotify.com/album/5zaVtrjodNQru22Rj4FIcD?autoplay=true) - Jets to Brazil
 - [Wish You Were Here](https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw?autoplay=true) - Pink Floyd
+- [My Way Through](https://open.spotify.com/album/0B9tBeEWRc2gwTzvUhzRI3?autoplay=true) - Deca
 
 ### Bookshelf
 
