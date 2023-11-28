@@ -53,7 +53,7 @@ title: muses
 - [The Picture of Dorian Gray](https://www.goodreads.com/book/show/5297) - Oscar Wilde
 - [The Unbearable Lightness of Being](https://www.goodreads.com/book/show/9717) - Milan Kundera
 - [Human Compatible:](https://www.goodreads.com/book/show/44767248) - Stuart Russell
-- [The Precipice: Existential Risk and the Future of Humanity](https://www.goodreads.com/book/show/46803615) - Toby Ord
+- [The Precipice](https://www.goodreads.com/book/show/46803615) - Toby Ord
 - [Doing Good Better](https://www.goodreads.com/book/show/23398748) - William MacAskill
 - [The Black Swan](https://www.goodreads.com/book/show/242472) - Nassim Nicholas Taleb
 - [The Autobiography of Benjamin Franklin](https://www.goodreads.com/book/show/52309) - Benjamin Franklin
