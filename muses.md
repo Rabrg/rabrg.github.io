@@ -17,11 +17,15 @@ title: muses
 - [Sons](https://open.spotify.com/album/1WznfBJq0vsT4uzH8HEAM8?autoplay=true) - Sons of an Illustrious Father
 - [The Lemon of Pink](https://open.spotify.com/track/4Sp2Hz3EaK8ZfJpFVi0QSc?autoplay=true) - The Books
 - [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc?autoplay=true) - Daft Punk
+- [Kind of Blue](https://open.spotify.com/album/1weenld61qoidwYuZ1GESA?autoplay=true) - Miles Davis
 - [Orange Rhyming Dictionary](https://open.spotify.com/album/5zaVtrjodNQru22Rj4FIcD?autoplay=true) - Jets to Brazil
 - [Wish You Were Here](https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw?autoplay=true) - Pink Floyd
 
 ### Bookshelf
 
+- [Total Freedom](https://www.goodreads.com/book/show/143878) - Jiddu Krishnamurti
+- [Why Greatness Cannot Be Planned](https://www.goodreads.com/book/show/25670869) - Kenneth O. Stanley
+- [The Road to Inner Freedom](https://www.goodreads.com/book/show/208658) - Baruch Spinoza
 - [The American Scholar](https://www.goodreads.com/book/show/57272153) - Ralph Waldo Emerson
 - [Self-Reliance](https://www.goodreads.com/book/show/55678388) - Ralph Waldo Emerson
 - [Leaves of Grass](https://www.goodreads.com/book/show/765418) - Walt Whitman
@@ -71,6 +75,7 @@ title: muses
 - [The Sirens of Titan](https://www.goodreads.com/book/show/4982) - Kurt Vonnegut Jr.
 - [Fooled by Randomness](https://www.goodreads.com/book/show/38315) - Nassim Nicholas Taleb
 - [Siddhartha](https://www.goodreads.com/book/show/52036) - Hermann Hesse
+- [The Name of the Wind](https://www.goodreads.com/book/show/186074.The_Name_of_the_Wind) - Patrick Rothfuss
 
 ### Quotes
 
