@@ -38,11 +38,9 @@ title: muses
 - [The Second Sex](https://www.goodreads.com/book/show/23346892) - Simone de Beauvoir
 - [The Song of Achilles](https://www.goodreads.com/book/show/11250317) - Madeline Miller
 - [Factfulness](https://www.goodreads.com/book/show/34890015) - Hans Rosling
-- [11/22/63](https://www.goodreads.com/book/show/10644930) - Stephen King
 - [The Egg](https://www.goodreads.com/book/show/17563539) - Andy Weir
 - [Mother Night](https://www.goodreads.com/book/show/9592) - Kurt Vonnegut Jr.
 - [Cat's Cradle](https://www.goodreads.com/book/show/135479) - Kurt Vonnegut Jr.
-- [The Effective Engineer](https://www.goodreads.com/book/show/25238425) - Edmond Lau
 - [The Bhagavad Gita](https://www.goodreads.com/book/show/34909756) - Krishna-Dwaipayana Vyasa
 - [The Passion According to G.H.](https://www.goodreads.com/book/show/153426) - Clarice Lispector
 - [Nature](https://www.goodreads.com/book/show/40069643) - Ralph Waldo Emerson
@@ -62,7 +60,6 @@ title: muses
 - [Doing Good Better](https://www.goodreads.com/book/show/23398748) - William MacAskill
 - [The Black Swan](https://www.goodreads.com/book/show/242472) - Nassim Nicholas Taleb
 - [The Autobiography of Benjamin Franklin](https://www.goodreads.com/book/show/52309) - Benjamin Franklin
-- [The Harvard Medical School Guide to Healthy Eating](https://www.goodreads.com/book/show/34466919) - Walter C. Willett
 - [Die with Zero](https://www.goodreads.com/book/show/52950915) - Bill Perkins
 - [Nabokov's Favorite Word Is Mauve](https://www.goodreads.com/book/show/30753786) - Ben Blatt
 - [Gilead](https://www.goodreads.com/book/show/68210) - Marilynne Robinson
