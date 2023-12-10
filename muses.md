@@ -5,22 +5,13 @@ title: muses
 
 ### Records
 
+- [New History Warfare Vol. 2: Judges](https://open.spotify.com/album/56rcjS8EZIWTXCbk1V2NBI?si=Kfb7T-gSQr2I0oJ5al1cyg) - Colin Stetson
 - [Promises](https://open.spotify.com/album/3ShtO5VCYa3ctlR5uzLWBa?autoplay=true) - Floating Points
 - [Maggot Brain](https://open.spotify.com/track/5WJU527RQNyMLuKecjsL8V?autoplay=true) - Funkadelic
 - [Before The Beginning](https://open.spotify.com/track/0WlIsoZO70rddJrsal9Tqm?autoplay=true) - John Frusciante
-- [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE?autoplay=true) - Radiohead
-- [Hollywood Africans](https://open.spotify.com/album/41PE0a48Mgo7jiCnjf6719?autoplay=true) - Jon Batiste
-- [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno?autoplay=true) - Portishead
-- [The Velvet Underground & Nico](https://open.spotify.com/album/1b27KQt4bBP2hlgrHbQMIw?autoplay=true) - The Velvet Underground
-- [xx](https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8?autoplay=true) - The xx
-- [In The Aeroplane Over The Sea](https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob?autoplay=true) - Neutral Milk Hotel
 - [Sons](https://open.spotify.com/album/1WznfBJq0vsT4uzH8HEAM8?autoplay=true) - Sons of an Illustrious Father
 - [The Lemon of Pink](https://open.spotify.com/track/4Sp2Hz3EaK8ZfJpFVi0QSc?autoplay=true) - The Books
-- [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc?autoplay=true) - Daft Punk
-- [Kind of Blue](https://open.spotify.com/album/1weenld61qoidwYuZ1GESA?autoplay=true) - Miles Davis
 - [Orange Rhyming Dictionary](https://open.spotify.com/album/5zaVtrjodNQru22Rj4FIcD?autoplay=true) - Jets to Brazil
-- [Wish You Were Here](https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw?autoplay=true) - Pink Floyd
-- [My Way Through](https://open.spotify.com/album/0B9tBeEWRc2gwTzvUhzRI3?autoplay=true) - Deca
 
 ### Bookshelf
 
