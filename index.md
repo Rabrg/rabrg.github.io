@@ -9,5 +9,5 @@ title: home
 
 ### Work
 
-- **2022 - now:** retrieval, agents, and learning efficiency at OpenAI
-- **2020 - 2022:** election integrity and News Feed ranking at Meta
+- **2022 - now:** retrieval, agents, and learning at OpenAI
+- **2020 - 2022:** election integrity and aligning News Feed ranking with human values at Meta
