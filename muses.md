@@ -37,9 +37,8 @@ title: muses
 - [Cat's Cradle](https://www.goodreads.com/book/show/135479) - Kurt Vonnegut Jr.
 - [A Poetry Handbook](https://www.goodreads.com/book/show/71652) - Mary Oliver
 - [The Dragons of Eden](https://www.goodreads.com/book/show/18936642) - Carl Sagan
-- [Atlas of the Heart:](https://www.goodreads.com/book/show/58330567) - Brené Brown
+- [Atlas of the Heart](https://www.goodreads.com/book/show/58330567) - Brené Brown
 - [The Four Agreements](https://www.goodreads.com/book/show/6596) - Miguel Ruiz
-- [Deep Work](https://www.goodreads.com/book/show/25744928) - Cal Newport
 - [The Picture of Dorian Gray](https://www.goodreads.com/book/show/5297) - Oscar Wilde
 - [The Unbearable Lightness of Being](https://www.goodreads.com/book/show/9717) - Milan Kundera
 - [Human Compatible:](https://www.goodreads.com/book/show/44767248) - Stuart Russell
