@@ -12,6 +12,8 @@ title: muses
 
 ### Bookshelf
 
+- [The Passion According to G.H.](https://www.goodreads.com/book/show/153426) - Clarice Lispector
+
 - [Letters to a Young Poet](https://www.goodreads.com/book/show/13570789) - Rainer Maria Rilke
 - [Total Freedom](https://www.goodreads.com/book/show/143878) - Jiddu Krishnamurti
 - [Walden](https://www.goodreads.com/book/show/16902) - Henry David Thoreau
@@ -22,11 +24,9 @@ title: muses
 - [Leaves of Grass](https://www.goodreads.com/book/show/765418) - Walt Whitman
 - [The Creative Act](https://www.goodreads.com/book/show/60965426) - Rick Rubin
 - [Fictions](https://www.goodreads.com/book/show/16564) - Jorge Luis Borges
-- [The Passion According to G.H.](https://www.goodreads.com/book/show/153426) - Clarice Lispector
 - [Nature](https://www.goodreads.com/book/show/40069643) - Ralph Waldo Emerson
 - [The Bhagavad Gita](https://www.goodreads.com/book/show/34909756) - Krishna-Dwaipayana Vyasa
 - [The Egg](https://www.goodreads.com/book/show/17563539) - Andy Weir
-- [Why Greatness Cannot Be Planned](https://www.goodreads.com/book/show/25670869) - Kenneth O. Stanley
 - [East of Eden](https://www.goodreads.com/book/show/4406) - John Steinbeck
 - [Circe](https://www.goodreads.com/book/show/35959740) - Madeline Miller
 - [Other Minds](https://www.goodreads.com/book/show/28116739) - Peter Godfrey-Smith
@@ -37,7 +37,6 @@ title: muses
 - [The Four Agreements](https://www.goodreads.com/book/show/6596) - Miguel Ruiz
 - [The Picture of Dorian Gray](https://www.goodreads.com/book/show/5297) - Oscar Wilde
 - [The Unbearable Lightness of Being](https://www.goodreads.com/book/show/9717) - Milan Kundera
-- [Human Compatible:](https://www.goodreads.com/book/show/44767248) - Stuart Russell
 - [The Precipice](https://www.goodreads.com/book/show/46803615) - Toby Ord
 - [Doing Good Better](https://www.goodreads.com/book/show/23398748) - William MacAskill
 - [The Black Swan](https://www.goodreads.com/book/show/242472) - Nassim Nicholas Taleb
@@ -48,9 +47,9 @@ title: muses
 - [The Old Man and the Sea](https://www.goodreads.com/book/show/2165) - Ernest Hemingway
 - [Stoner](https://www.goodreads.com/book/show/166997) - John Williams
 - [The Brothers Karamazov](https://www.goodreads.com/book/show/4934) - Fyodor Dostoevsky
-- [The Pragmatic Programmer](https://www.goodreads.com/book/show/45280024) - David Thomas
 - [Lonesome Dove](https://www.goodreads.com/book/show/256008) - Larry McMurtry
 - [Fooled by Randomness](https://www.goodreads.com/book/show/38315) - Nassim Nicholas Taleb
+- [Why Greatness Cannot Be Planned](https://www.goodreads.com/book/show/25670869) - Kenneth O. Stanley
 - [The Name of the Wind](https://www.goodreads.com/book/show/186074.The_Name_of_the_Wind) - Patrick Rothfuss
 - [Siddhartha](https://www.goodreads.com/book/show/52036) - Hermann Hesse
 
