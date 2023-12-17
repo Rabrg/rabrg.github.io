@@ -9,7 +9,6 @@ title: muses
 - [Promises](https://open.spotify.com/album/3ShtO5VCYa3ctlR5uzLWBa?autoplay=true) - Floating Points
 - [Maggot Brain](https://open.spotify.com/track/5WJU527RQNyMLuKecjsL8V?autoplay=true) - Funkadelic
 - [Before The Beginning](https://open.spotify.com/track/0WlIsoZO70rddJrsal9Tqm?autoplay=true) - John Frusciante
-- [Orange Rhyming Dictionary](https://open.spotify.com/album/5zaVtrjodNQru22Rj4FIcD?autoplay=true) - Jets to Brazil
 
 ### Bookshelf
 
@@ -32,9 +31,6 @@ title: muses
 - [Circe](https://www.goodreads.com/book/show/35959740) - Madeline Miller
 - [Other Minds](https://www.goodreads.com/book/show/28116739) - Peter Godfrey-Smith
 - [The Second Sex](https://www.goodreads.com/book/show/23346892) - Simone de Beauvoir
-- [The Song of Achilles](https://www.goodreads.com/book/show/11250317) - Madeline Miller
-- [Mother Night](https://www.goodreads.com/book/show/9592) - Kurt Vonnegut Jr.
-- [Cat's Cradle](https://www.goodreads.com/book/show/135479) - Kurt Vonnegut Jr.
 - [A Poetry Handbook](https://www.goodreads.com/book/show/71652) - Mary Oliver
 - [The Dragons of Eden](https://www.goodreads.com/book/show/18936642) - Carl Sagan
 - [Atlas of the Heart](https://www.goodreads.com/book/show/58330567) - Brené Brown
@@ -54,8 +50,6 @@ title: muses
 - [The Brothers Karamazov](https://www.goodreads.com/book/show/4934) - Fyodor Dostoevsky
 - [The Pragmatic Programmer](https://www.goodreads.com/book/show/45280024) - David Thomas
 - [Lonesome Dove](https://www.goodreads.com/book/show/256008) - Larry McMurtry
-- [Mastery](https://www.goodreads.com/book/show/13589182) - Robert Greene
-- [The Sirens of Titan](https://www.goodreads.com/book/show/4982) - Kurt Vonnegut Jr.
 - [Fooled by Randomness](https://www.goodreads.com/book/show/38315) - Nassim Nicholas Taleb
 - [The Name of the Wind](https://www.goodreads.com/book/show/186074.The_Name_of_the_Wind) - Patrick Rothfuss
 - [Siddhartha](https://www.goodreads.com/book/show/52036) - Hermann Hesse
