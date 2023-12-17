@@ -13,7 +13,6 @@ title: muses
 ### Bookshelf
 
 - [The Passion According to G.H.](https://www.goodreads.com/book/show/153426) - Clarice Lispector
-
 - [Letters to a Young Poet](https://www.goodreads.com/book/show/13570789) - Rainer Maria Rilke
 - [Total Freedom](https://www.goodreads.com/book/show/143878) - Jiddu Krishnamurti
 - [Walden](https://www.goodreads.com/book/show/16902) - Henry David Thoreau
