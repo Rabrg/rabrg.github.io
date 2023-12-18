@@ -5,11 +5,11 @@ title: muses
 
 ### Records
 
-- [Stones](https://open.spotify.com/album/56rcjS8EZIWTXCbk1V2NBI?si=Kfb7T-gSQr2I0oJ5al1cyg) - Colin Stetson, Mats Gustafsson
-- [New History Warfare Vol. 2: Judges](https://open.spotify.com/album/56rcjS8EZIWTXCbk1V2NBI?si=Kfb7T-gSQr2I0oJ5al1cyg) - Colin Stetson
-- [Promises](https://open.spotify.com/album/3ShtO5VCYa3ctlR5uzLWBa?autoplay=true) - Floating Points, Pharoah Sanders, The London Symphony Orchestra
-- [Maggot Brain](https://open.spotify.com/track/5WJU527RQNyMLuKecjsL8V?autoplay=true) - Funkadelic
-- [Before The Beginning](https://open.spotify.com/track/0WlIsoZO70rddJrsal9Tqm?autoplay=true) - John Frusciante
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/56rcjS8EZIWTXCbk1V2NBI?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2MkkGrIOPSTKwkQRyQ2Poc?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3ShtO5VCYa3ctlR5uzLWBa?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5WJU527RQNyMLuKecjsL8V?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0WlIsoZO70rddJrsal9Tqm?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ### Bookshelf
 
