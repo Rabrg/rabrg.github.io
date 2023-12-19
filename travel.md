@@ -3,7 +3,7 @@ layout: default
 title: travel
 ---
 
-i got my first-ever passport (🙌) & moved all my stuff into a storage locker in August 2023 and have since been traveling inbetween stints in the different neighborhoods of San Francisco
+in August 2023 i received my first-ever passport (🙌), moved all my stuff into a storage locker, and have since been traveling inbetween stints in the different neighborhoods of San Francisco
 
 ### 2023
 
