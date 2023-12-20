@@ -51,7 +51,7 @@ title: muses
 - [Total Freedom](https://www.goodreads.com/book/show/143878) - Jiddu Krishnamurti
 - [The Unbearable Lightness of Being](https://www.goodreads.com/book/show/9717) - Milan Kundera
 - [Walden](https://www.goodreads.com/book/show/16902) - Henry David Thoreau
-- [Why Greatness Cannot Be Planned](https://www.goodreads.com/book/show/25670869) - Kenneth O. Stan
+- [Why Greatness Cannot Be Planned](https://www.goodreads.com/book/show/25670869) - Kenneth O. Stanley
 
 ### Quotes
 
