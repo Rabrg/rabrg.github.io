@@ -32,6 +32,7 @@ title: muses
 - [Fooled by Randomness](https://www.goodreads.com/book/show/38315) - Nassim Nicholas Taleb
 - [The Four Agreements](https://www.goodreads.com/book/show/6596) - Miguel Ruiz
 - [Gilead](https://www.goodreads.com/book/show/68210) - Marilynne Robinson
+- [Hunger](https://www.goodreads.com/en/book/show/32585) - Knut Hamsun
 - [Leaves of Grass](https://www.goodreads.com/book/show/765418) - Walt Whitman
 - [Letters to a Young Poet](https://www.goodreads.com/book/show/13570789) - Rainer Maria Rilke
 - [Lifecycle Investing](https://www.goodreads.com/book/show/7603406) - Ian Ayres
