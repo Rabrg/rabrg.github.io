@@ -58,4 +58,4 @@ title: muses
 
 > "'Beauty is Truth, Truth Beauty.' – that is all / Ye know on earth, and all ye need to know" - John Keats
 
-- "When we enter into understanding we are entering into love" - Jimi Hendrix
+> "When we enter into understanding we are entering into love" - Jimi Hendrix
