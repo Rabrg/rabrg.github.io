@@ -55,6 +55,8 @@ title: muses
 
 ### Quotes
 
+> "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you" - Matthew 7:7
+
 > "'Beauty is Truth, Truth Beauty.' – that is all / Ye know on earth, and all ye need to know" - John Keats
 
 > "For love is ever the beginning of Knowledge, as fire is of light" - Thomas Carlyle
