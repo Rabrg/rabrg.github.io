@@ -3,14 +3,16 @@ layout: default
 title: muses
 ---
 
-### Records
+### Records (the albums i’m currently playing on repeat)
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/56rcjS8EZIWTXCbk1V2NBI?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3ShtO5VCYa3ctlR5uzLWBa?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5WJU527RQNyMLuKecjsL8V?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0WlIsoZO70rddJrsal9Tqm?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+_the albums i'm playing on repeat_
 
-### Bookshelf
+- Blind Fury - AKU! (2020)
+- Feeding the Machiine - Binker and Moses (2022)
+- New History Warfare Vol. 2: Judges - Colin Stetson (2011)
+- Promises - Floating Points, Pharoah Sanders, and the London Symphony Orchestra (2021)
+
+### Bookshelf (some of my favorite reads)
 
 - [A Poetry Handbook](https://www.goodreads.com/book/show/71652) - Mary Oliver
 - [The American Scholar](https://www.goodreads.com/book/show/57272153) - Ralph Waldo Emerson
@@ -41,6 +43,7 @@ title: muses
 - [The Old Man and the Sea](https://www.goodreads.com/book/show/2165) - Ernest Hemingway
 - [Other Minds](https://www.goodreads.com/book/show/28116739) - Peter Godfrey-Smith
 - [The Passion According to G.H.](https://www.goodreads.com/book/show/153426) - Clarice Lispector
+- [The Perennial Philosophy](https://www.goodreads.com/book/show/5131) - Aldous Huxley
 - [The Picture of Dorian Gray](https://www.goodreads.com/book/show/5297) - Oscar Wilde
 - [The Precipice](https://www.goodreads.com/book/show/46803615) - Toby Ord
 - [The Road to Inner Freedom](https://www.goodreads.com/book/show/208658) - Baruch Spinoza
@@ -50,13 +53,14 @@ title: muses
 - [Stoner](https://www.goodreads.com/book/show/166997) - John Williams
 - [Total Freedom](https://www.goodreads.com/book/show/143878) - Jiddu Krishnamurti
 - [The Unbearable Lightness of Being](https://www.goodreads.com/book/show/9717) - Milan Kundera
+- [Upstream](https://www.goodreads.com/review/show/6184664768) - Mary Oliver
 - [Walden](https://www.goodreads.com/book/show/16902) - Henry David Thoreau
 - [Why Greatness Cannot Be Planned](https://www.goodreads.com/book/show/25670869) - Kenneth O. Stanley
 
 ### Quotes
 
-> "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you" - Matthew 7:7
+> "For love is ever the beginning of Knowledge, as fire is of light" - Thomas Carlyle
 
 > "'Beauty is Truth, Truth Beauty.' – that is all / Ye know on earth, and all ye need to know" - John Keats
 
-> "For love is ever the beginning of Knowledge, as fire is of light" - Thomas Carlyle
+> "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you" - Matthew 7:7
