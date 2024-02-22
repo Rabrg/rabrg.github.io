@@ -5,12 +5,10 @@ title: muses
 
 ### Records (the albums i’m currently playing on repeat)
 
-_the albums i'm playing on repeat_
-
-- Blind Fury - AKU! (2020)
-- Feeding the Machiine - Binker and Moses (2022)
-- New History Warfare Vol. 2: Judges - Colin Stetson (2011)
-- Promises - Floating Points, Pharoah Sanders, and the London Symphony Orchestra (2021)
+- [Blind Fury](https://open.spotify.com/album/6kC17nZeXdCQooTRQSzX8a?autoplay=true) - AKU! (2020)
+- [Feeding the Machiine](https://open.spotify.com/album/5ea09DMYFAHgWj88zLYuNm?autoplay=true) - Binker and Moses (2022)
+- [New History Warfare Vol. 2: Judges](https://open.spotify.com/album/56rcjS8EZIWTXCbk1V2NBI?autoplay=true) - Colin Stetson (2011)
+- [Promises](https://open.spotify.com/album/4pDYkOvRt8GA6PxpVaHnLC?autoplay=true) - Floating Points (2021)
 
 ### Bookshelf (some of my favorite reads)
 
