@@ -3,14 +3,14 @@ layout: default
 title: muses
 ---
 
-### Records (the albums i’m currently playing on repeat)
+### Records on Repeat
 
 - [Blind Fury](https://open.spotify.com/album/6kC17nZeXdCQooTRQSzX8a?autoplay=true) - AKU! (2020)
 - [Feeding the Machiine](https://open.spotify.com/album/5ea09DMYFAHgWj88zLYuNm?autoplay=true) - Binker and Moses (2022)
 - [New History Warfare Vol. 2: Judges](https://open.spotify.com/album/56rcjS8EZIWTXCbk1V2NBI?autoplay=true) - Colin Stetson (2011)
 - [Promises](https://open.spotify.com/album/4pDYkOvRt8GA6PxpVaHnLC?autoplay=true) - Floating Points (2021)
 
-### Bookshelf (some of my favorite reads)
+### Bookshelf
 
 - [A Poetry Handbook](https://www.goodreads.com/book/show/71652) - Mary Oliver
 - [The American Scholar](https://www.goodreads.com/book/show/57272153) - Ralph Waldo Emerson
